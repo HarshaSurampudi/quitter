@@ -1,4 +1,4 @@
-# quitter (quitter)
+# quitter (quitter) :)
 
 A Quasar Project
 
